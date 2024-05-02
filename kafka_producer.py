@@ -7,8 +7,8 @@ conf = {
     'bootstrap.servers': 'pkc-41p56.asia-south1.gcp.confluent.cloud:9092',
     'security.protocol': 'SASL_SSL',
     'sasl.mechanisms': 'PLAIN',
-    'sasl.username': 'OUN3EQ4BRPF6S574',
-    'sasl.password': 'Ud/1p33P2QbkdqINKbmAYTfn/3bi1X3yZ6OBBqbzqLkyboVH06BNEq4fLILkkilO'
+    'sasl.username': 'xxxx',
+    'sasl.password': 'xxxxx'
 }
 
 # Create a Kafka producer instance
